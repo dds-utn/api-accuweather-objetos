@@ -1,3 +1,5 @@
+package edu.utn.frba.dds.accuweather;
+
 import java.util.*;
 
 public final class AccuWeatherAPI {
